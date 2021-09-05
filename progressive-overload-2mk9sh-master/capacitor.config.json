@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Progressive Overload",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
